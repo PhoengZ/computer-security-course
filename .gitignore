@@ -1,0 +1,18 @@
+# Lectures
+lectures/
+
+# Environments
+env/
+venv/
+.venv/
+.env
+
+# Python / Pip Environment
+__pycache__/
+*.pyc
+*.pyo
+Pipfile.lock
+pip-wheel-metadata/
+
+# Assignment 1 environment 
+comp_sec_ass1/
